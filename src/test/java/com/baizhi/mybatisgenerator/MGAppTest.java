@@ -93,4 +93,9 @@ public class MGAppTest {
         List<User> users = userMapper.selectByExample(example);
         users.forEach(System.out::println);
     }
+
+    @Test
+    public void test2() {
+
+    }
 }
