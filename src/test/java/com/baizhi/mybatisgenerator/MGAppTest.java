@@ -97,5 +97,6 @@ public class MGAppTest {
     @Test
     public void test2() {
         System.out.println("test");
+        System.out.println("test2");
     }
 }
