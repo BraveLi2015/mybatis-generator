@@ -97,6 +97,6 @@ public class MGAppTest {
     @Test
     public void test2() {
         System.out.println("test");
-        System.out.println("test3");
+        System.out.println("test35");
     }
 }
