@@ -98,5 +98,6 @@ public class MGAppTest {
     public void test2() {
         System.out.println("test");
         System.out.println("test35");
+        System.out.println("tet");
     }
 }
